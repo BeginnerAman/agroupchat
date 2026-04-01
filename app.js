@@ -41,7 +41,7 @@ let currentPinnedId  = null;  // for force-scroll
 // ---- Roles & Passwords ----
 const ROLES = {
   'aman':   { password: '@aman27',   role: 'admin',  badge: null,  label: 'Admin' },
-  'anchal': { password: '@sarika27', role: 'admin', badge: '👑',  label: 'Admin' },
+  'anchal': { password: 'anchal027', role: 'admin', badge: '👑',  label: 'Admin' },
 };
 
 // ---- Quick Reactions ----
